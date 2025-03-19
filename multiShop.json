@@ -65,5 +65,127 @@
       "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "offer": 22
     }
+  ],
+  "categories": [
+    {
+      "id": "68aca14c-41ea-40ae-8608-a2cc969010dc",
+      "category": "Nyctanassa violacea",
+      "total": 1,
+      "image": "https://images.unsplash.com/photo-1704951108136-0153f403c5cb?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "172eb7bd-b6ee-4695-b1cc-242cf6bfa050",
+      "category": "Bubalus arnee",
+      "total": 57,
+      "image": "https://images.unsplash.com/photo-1704677982224-89cd6d039fa6?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "bf013cd6-5ec1-4ecb-a20e-ba137aeb2295",
+      "category": "Numida meleagris",
+      "total": 71,
+      "image": "https://images.unsplash.com/photo-1705096953495-8ea06879b986?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "5c8fc7a2-fbdd-4fb3-8fcf-a0b4c222db20",
+      "category": "Anas punctata",
+      "total": 22,
+      "image": "https://images.unsplash.com/photo-1695748966450-3abe5c25b481?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "8d422fc0-acae-4b32-b896-d7b88bba13ba",
+      "category": "Plegadis falcinellus",
+      "total": 22,
+      "image": "https://images.unsplash.com/photo-1704677982215-a2248af6009b?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "3cb08ee3-7ba6-49b6-bcdc-e51c26b99a43",
+      "category": "Capra ibex",
+      "total": 82,
+      "image": "https://images.unsplash.com/photo-1699198489130-2e02f3726612?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "7032e41f-b8f1-47a2-b4c1-8da6b2c5ee47",
+      "category": "Rhea americana",
+      "total": 30,
+      "image": "https://images.unsplash.com/photo-1695753648663-72cc4dd99449?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "90f5bbb7-d05e-4f25-9293-741d08ff9a2e",
+      "category": "Cereopsis novaehollandiae",
+      "total": 17,
+      "image": "https://images.unsplash.com/photo-1695830110251-b9d9cac2ce9d?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "1827a1ea-bd07-44a1-828b-991756b2b96a",
+      "category": "Larus fuliginosus",
+      "total": 19,
+      "image": "https://images.unsplash.com/photo-1695697104675-429f5fcdede6?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "f88a8353-6c23-474a-9735-eb2de6281918",
+      "category": "Junonia genoveua",
+      "total": 34,
+      "image": "https://images.unsplash.com/photo-1600686436197-074b5f921604?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2c7d7b39-f5a5-430d-bb42-1a3dde44b016",
+      "category": "Macropus agilis",
+      "total": 53,
+      "image": "https://images.unsplash.com/photo-1699593022913-7068606059c8?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "47b69b3d-f443-4d98-8205-2c7386f650b8",
+      "category": "Spilogale gracilis",
+      "total": 36,
+      "image": "https://images.unsplash.com/photo-1712467533059-733432958ff4?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "9fd04887-c714-4537-8edb-129441ecac40",
+      "category": "Ursus arctos",
+      "total": 31,
+      "image": "https://images.unsplash.com/photo-1704949834515-e9d11a0ceb9a?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "ff2aa20e-9b2c-4931-a0ae-0dcea993720c",
+      "category": "Haematopus ater",
+      "total": 70,
+      "image": "https://images.unsplash.com/photo-1577983072945-4a01dcd3439a?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "6abf2711-4061-4a0d-bcd2-1487e49fca68",
+      "category": "Macropus agilis",
+      "total": 62,
+      "image": "https://images.unsplash.com/photo-1697410468285-e214b3a6671f?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "80b79649-5ba9-4c9b-a364-1dc7bdbf75d7",
+      "category": "Pteronura brasiliensis",
+      "total": 92,
+      "image": "https://images.unsplash.com/photo-1700407592504-f4de855d559a?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "38208232-e790-463a-8ae5-ff3bd709501d",
+      "category": "Hippotragus equinus",
+      "total": 86,
+      "image": "https://images.unsplash.com/photo-1700854088063-e558c33fe3cc?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "1431a3bd-c343-44ee-aabe-34f89a4ef920",
+      "category": "Columba palumbus",
+      "total": 50,
+      "image": "https://images.unsplash.com/photo-1723082053696-f94b182d4693?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "f1ab1252-333c-4094-a838-7a0e3658f753",
+      "category": "Snycerus caffer",
+      "total": 97,
+      "image": "https://images.unsplash.com/photo-1698591020373-6a183ba43308?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "18a92e92-9da2-4b7f-a248-e4a564d00072",
+      "category": "Ovis musimon",
+      "total": 30,
+      "image": "https://images.unsplash.com/photo-1700178310305-0e05d7930f9f?q=80&w=100&h=100&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
   ]
 }
