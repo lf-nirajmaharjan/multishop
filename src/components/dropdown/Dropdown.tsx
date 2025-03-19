@@ -14,7 +14,6 @@ const Dropdown = <T extends string>(props: DropdownProps<T>) => {
   const [selected, setSelected] = useState(getLabel(options[0].value) as T);
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
-  console.log("🚀 ~ dropdownRef:", dropdownRef);
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {

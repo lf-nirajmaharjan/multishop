@@ -1,0 +1,69 @@
+{
+  "bannerCrousel": [
+    {
+      "id": "b41c6715-93ce-46ca-a0f0-d982989b6af9",
+      "title": "Men Fashion",
+      "description": "lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+      "imageUrl": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 3
+    },
+    {
+      "id": "3f121fc0-0c06-4f3a-9a08-8f101f50426b",
+      "title": "Women Fashion",
+      "description": "pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
+      "imageUrl": "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 0
+    },
+    {
+      "id": "6beddb0b-71c2-443a-afad-6f57d7642bcf",
+      "title": "Kid Fashion",
+      "description": "felis eu sapien cursus vestibulum proin eu mi nulla ac enim",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1570733117311-d990c3816c47?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 13
+    },
+    {
+      "id": "ba9f17c4-41f1-4290-94f4-64783d737482",
+      "title": "habitasse platea dictumst etiam faucibus",
+      "description": "elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus",
+      "imageUrl": "https://images.unsplash.com/photo-1572705824045-3dd0c9a47945?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 4
+    }
+  ],
+  "specialOffer": [
+    {
+      "id": "9af17bb8-6978-4e45-b8ae-9ef26bdcddcb",
+      "title": "lacus purus aliquet",
+      "description": "tincidunt in leo maecenas pulvinar lobortis est phasellus sit",
+      "image": "https://plus.unsplash.com/premium_photo-1707932485806-ce9b3c855339?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 91
+    },
+    {
+      "id": "4b6ef9ce-8a34-44cf-b452-01f16fe9dd89",
+      "title": "eget eros elementum",
+      "description": "dui nec nisi volutpat eleifend donec",
+      "image": "https://plus.unsplash.com/premium_photo-1708274926468-f3ef322edffc?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 28
+    },
+    {
+      "id": "f8f77a09-7af8-4fda-8c37-b6e9122987c3",
+      "title": "odio justo sollicitudin",
+      "description": "nisl duis ac nibh fusce lacus purus aliquet",
+      "image": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 6
+    },
+    {
+      "id": "5dd25efd-76a6-4d10-a536-c0a87368f25b",
+      "title": "suscipit a",
+      "description": "rutrum rutrum neque aenean auctor gravida sem praesent id massa",
+      "image": "https://plus.unsplash.com/premium_photo-1673502751768-586478eb3fcb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 6
+    },
+    {
+      "id": "5cdbeb89-b0ef-4e9a-b3d0-6395afc3cb51",
+      "title": "quisque ut",
+      "description": "suspendisse potenti cras in purus eu magna vulputate luctus",
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offer": 22
+    }
+  ]
+}
