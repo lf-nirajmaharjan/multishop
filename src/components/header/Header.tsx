@@ -1,11 +1,14 @@
 import { FaBars, FaChevronDown, FaHeart, FaSearch } from "react-icons/fa";
 import { FaCartShopping } from "react-icons/fa6";
-import Navbar from "../navbar";
 import { CURRENCY, LANG, MY_ACCOUNT } from "../../constants/app";
-import Dropdown from "../dropdown";
 import { topMenuItems } from "../../constants/navbar";
+import { useWishlist } from "../../context/wishlistContext";
+import Dropdown from "../dropdown";
+import Navbar from "../navbar";
 
 const Header = () => {
+  const { wishlist } = useWishlist();
+
   return (
     <>
       <div className="container-fluid">
@@ -191,11 +194,11 @@ const Header = () => {
                 <Navbar />
 
                 <div className="navbar-nav ml-auto py-0 d-none d-lg-block">
-                  <a href="" className="btn px-0">
+                  <a href="/wishlist" className="btn px-0">
                     <FaHeart className="text-primary" size={20} />
 
                     <span className="badge text-secondary border border-secondary rounded-circle">
-                      0
+                      {wishlist.length}
                     </span>
                   </a>
                   <a href="" className="btn px-0 ml-3">

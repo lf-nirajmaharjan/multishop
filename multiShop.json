@@ -65,5 +65,170 @@
       "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "offer": 22
     }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "image": "https://picsum.photos/200/300",
+      "title": "Product 1",
+      "price": 19.99,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "image": "https://picsum.photos/200/301",
+      "title": "Product 2",
+      "price": 9.99,
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "image": "https://picsum.photos/200/302",
+      "title": "Product 3",
+      "price": 29.99,
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "image": "https://picsum.photos/200/303",
+      "title": "Product 4",
+      "price": 14.99,
+      "rating": 4.1
+    },
+    {
+      "id": "5",
+      "image": "https://picsum.photos/200/304",
+      "title": "Product 5",
+      "price": 39.99,
+      "rating": 4.9
+    },
+    {
+      "id": "6",
+      "image": "https://picsum.photos/200/305",
+      "title": "Product 6",
+      "price": 24.99,
+      "rating": 4.3
+    },
+    {
+      "id": "7",
+      "image": "https://picsum.photos/200/306",
+      "title": "Product 7",
+      "price": 34.99,
+      "rating": 4.6
+    },
+    {
+      "id": "8",
+      "image": "https://picsum.photos/200/307",
+      "title": "Product 8",
+      "price": 44.99,
+      "rating": 4.7
+    },
+    {
+      "id": "9",
+      "image": "https://picsum.photos/200/308",
+      "title": "Product 9",
+      "price": 54.99,
+      "rating": 4.4
+    },
+    {
+      "id": "10",
+      "image": "https://picsum.photos/200/309",
+      "title": "Product 10",
+      "price": 64.99,
+      "rating": 4.5
+    },
+    {
+      "id": "11",
+      "image": "https://picsum.photos/200/310",
+      "title": "Product 11",
+      "price": 74.99,
+      "rating": 4.2
+    },
+    {
+      "id": "12",
+      "image": "https://picsum.photos/200/311",
+      "title": "Product 12",
+      "price": 84.99,
+      "rating": 4.8
+    },
+    {
+      "id": "13",
+      "image": "https://picsum.photos/200/312",
+      "title": "Product 13",
+      "price": 94.99,
+      "rating": 4.1
+    },
+    {
+      "id": "14",
+      "image": "https://picsum.photos/200/313",
+      "title": "Product 14",
+      "price": 104.99,
+      "rating": 4.9
+    },
+    {
+      "id": "15",
+      "image": "https://picsum.photos/200/314",
+      "title": "Product 15",
+      "price": 114.99,
+      "rating": 4.3
+    },
+    {
+      "id": "16",
+      "image": "https://picsum.photos/200/315",
+      "title": "Product 16",
+      "price": 124.99,
+      "rating": 4.6
+    },
+    {
+      "id": "17",
+      "image": "https://picsum.photos/200/316",
+      "title": "Product 17",
+      "price": 134.99,
+      "rating": 4.7
+    },
+    {
+      "id": "18",
+      "image": "https://picsum.photos/200/317",
+      "title": "Product 18",
+      "price": 144.99,
+      "rating": 4.4
+    },
+    {
+      "id": "19",
+      "image": "https://picsum.photos/200/318",
+      "title": "Product 19",
+      "price": 154.99,
+      "rating": 3.5
+    }
+  ],
+  "wishList": [
+    {
+      "id": "63e6",
+      "productId": "7"
+    },
+    {
+      "id": "64bf",
+      "productId": "8"
+    },
+    {
+      "id": "e92a",
+      "productId": "10"
+    },
+    {
+      "id": "376f",
+      "productId": "2"
+    },
+    {
+      "id": "9633",
+      "productId": "4"
+    },
+    {
+      "id": "a3e3",
+      "productId": "3"
+    },
+    {
+      "id": "5536",
+      "productId": "3"
+    }
   ]
 }
